@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-office" viewBox="0 0 48 48">
+    <path fill="currentColor" d="M7 8h15v15H7z" opacity=".92"/>
+    <path fill="currentColor" d="M26 8h15v15H26z" opacity=".68"/>
+    <path fill="currentColor" d="M7 27h15v13H7z" opacity=".58"/>
+    <path fill="currentColor" d="M26 27h15v13H26z"/>
+  </symbol>
+  <symbol id="icon-system" viewBox="0 0 48 48">
+    <path fill="currentColor" d="M5 10 21 8v14H5zm19-2 19-3v17H24zM5 26h16v14L5 38zm19 0h19v17l-19-3z"/>
+  </symbol>
+  <symbol id="icon-security" viewBox="0 0 48 48">
+    <path fill="currentColor" d="M24 4 41 11v12c0 11-7.5 17-17 21C14.5 40 7 34 7 23V11zm0 7L13 15v8c0 7.6 4.7 12.2 11 15.4 6.3-3.2 11-7.8 11-15.4v-8z"/>
+    <path fill="currentColor" d="m19.5 23 3.2 3.2 6.2-7 3.4 3-9.4 10.4-6.8-6.8z"/>
+  </symbol>
+  <symbol id="icon-creative" viewBox="0 0 48 48">
+    <path fill="currentColor" d="M35.8 5.5c2.2-2.2 5.8 1.4 3.6 3.6L19 29.5l-7-7z"/>
+    <path fill="currentColor" d="m9.5 25 6.9 6.9-2.3 7.6-8.5 2.4 2.4-8.5z"/>
+    <path fill="currentColor" d="m31 10 7 7-2.8 2.8-7-7z" opacity=".45"/>
+  </symbol>
+  <symbol id="icon-utilities" viewBox="0 0 48 48">
+    <path fill="currentColor" d="m20 4 8-.1 1.1 5a16 16 0 0 1 4.2 1.8l4.4-2.5 5.7 5.6-2.5 4.5a16 16 0 0 1 1.7 4.2l5 1.1v8l-5 1.1a16 16 0 0 1-1.7 4.2l2.5 4.5-5.7 5.6-4.4-2.5a16 16 0 0 1-4.2 1.8L28 50h-8l-1.1-5a16 16 0 0 1-4.2-1.8l-4.4 2.5-5.7-5.6 2.5-4.5a16 16 0 0 1-1.7-4.2l-5-1.1v-8l5-1.1a16 16 0 0 1 1.7-4.2l-2.5-4.5 5.7-5.6 4.4 2.5a16 16 0 0 1 4.2-1.8z" transform="translate(2 -3) scale(.9)"/>
+    <circle cx="24" cy="24" r="7" fill="none" stroke="currentColor" stroke-width="4"/>
+  </symbol>
+</svg>
